@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lavad-Tech\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lavad-Tech\\.nuget\\packages"
+    ]
+  }
+}
